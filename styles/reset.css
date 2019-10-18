@@ -1,0 +1,16 @@
+@import "reset.css";
+
+/*
+секция hero
+*/
+
+.hero {
+  color: #fff
+  background-image: url(http://strelka.com/img/38cb4175ce21c7b2/site-banner-backg.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.hero nav {
+
+}
